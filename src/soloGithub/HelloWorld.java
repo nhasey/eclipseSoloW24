@@ -6,5 +6,5 @@ public class HelloWorld {
 		System.out.println("Howdy github project");
 		System.out.println("alternate second print statment from alternate programmer + a merge conflict");
 	}
-
+ 
 }
